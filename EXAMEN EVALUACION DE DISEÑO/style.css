@@ -8,13 +8,13 @@ header {
     text-align: left;
     height: 30px;
  }
-main {
+.mainindex{
     background-color: rgb(34, 209, 150);
-   
-    text-align: left;
+    text-align: center;
     margin-left: 0%;
     height: 450px;
 }
+
 
 
   footer {
@@ -48,4 +48,8 @@ main {
 
 
     }
-   
+   h2{
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+  
